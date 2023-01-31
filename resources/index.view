@@ -1,0 +1,62 @@
+<svg viewport-fill="fb-black">
+  <g id="hrs1" transform="translate(50%, 50%)">
+    <circle cy="-40%" r="15" fill="red" />
+  </g>
+  <g id="hrs2" transform="translate(50%, 50%) rotate(22.5)">
+    <circle cy="-40%" r="15" fill="red" />
+  </g>
+  <g id="hrs4" transform="translate(50%, 50%) rotate(45)">
+    <circle cy="-40%" r="15" fill="red" />
+  </g>
+  <g id="hrs8" transform="translate(50%, 50%) rotate(67.5)">
+    <circle cy="-40%" r="15" fill="red" />
+  </g>
+  <g id="secs1" transform="translate(50%, 50%) rotate(90)">
+    <circle cy="-40%" r="15" fill="green" />
+  </g>
+  <g id="secs2" transform="translate(50%, 50%) rotate(112.5)">
+    <circle cy="-40%" r="15" fill="green" />
+  </g>
+  <g id="secs4" transform="translate(50%, 50%) rotate(135)">
+    <circle cy="-40%" r="15" fill="green" />
+  </g>
+  <g id="secs8" transform="translate(50%, 50%) rotate(157.5)">
+    <circle cy="-40%" r="15" fill="green" />
+  </g>
+  <g id="secs16" transform="translate(50%, 50%) rotate(180)">
+    <circle cy="-40%" r="15" fill="green" />
+  </g>
+  <g id="secs32" transform="translate(50%, 50%) rotate(202.5)">
+    <circle cy="-40%" r="15" fill="green" />
+  </g>
+  <g id="mins1" transform="translate(50%, 50%) rotate(225)">
+    <circle cy="-40%" r="15" fill="yellow" />
+  </g>
+  <g id="mins2" transform="translate(50%, 50%) rotate(247.5)">
+    <circle cy="-40%" r="15" fill="yellow" />
+  </g>
+  <g id="mins4" transform="translate(50%, 50%) rotate(270)">
+    <circle cy="-40%" r="15" fill="yellow" />
+  </g>
+  <g id="mins8" transform="translate(50%, 50%) rotate(292.5)">
+    <circle cy="-40%" r="15" fill="yellow" />
+  </g>
+  <g id="mins16" transform="translate(50%, 50%) rotate(315)">
+    <circle cy="-40%" r="15" fill="yellow" />
+  </g>
+  <g id="mins32" transform="translate(50%, 50%) rotate(337.5)">
+    <circle cy="-40%" r="15" fill="yellow" />
+  </g>
+  <text
+    id="clock-label"
+    x="50%"
+    y="50%+12"
+    fill="white"
+    font-size="32"
+    font-family="System-Regular"
+    text-anchor="middle"
+    text-length="20"
+  >
+    00:00:00
+  </text>
+</svg>
